@@ -19,7 +19,7 @@
  */
 package com.grarak.kerneladiutor.views.recyclerview;
 
-import android.support.annotation.StringRes;
+import androidx.annotation.StringRes;
 import android.view.View;
 import android.widget.TextView;
 

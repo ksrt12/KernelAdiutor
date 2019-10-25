@@ -20,7 +20,7 @@
 package com.grarak.kerneladiutor.activities;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.widget.TextView;
 
 import com.grarak.kerneladiutor.R;

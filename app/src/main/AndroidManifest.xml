@@ -10,6 +10,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.USE_FINGERPRINT" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="cyanogenmod.permission.PUBLISH_CUSTOM_TILE" />
 
     <uses-feature
@@ -28,7 +29,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Default.Pink">
+        android:theme="@style/Theme.Default.Orange.Dark">
         <meta-data
             android:name="io.fabric.ApiKey"
             android:value="d89b7ebb31b3bb0ca514a4171c6af37c7c9579c9" />

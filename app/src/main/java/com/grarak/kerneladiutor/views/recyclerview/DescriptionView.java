@@ -20,8 +20,8 @@
 package com.grarak.kerneladiutor.views.recyclerview;
 
 import android.graphics.drawable.Drawable;
-import android.support.v7.widget.AppCompatImageView;
-import android.support.v7.widget.AppCompatTextView;
+import androidx.appcompat.widget.AppCompatImageView;
+import androidx.appcompat.widget.AppCompatTextView;
 import android.text.method.MovementMethod;
 import android.view.View;
 
